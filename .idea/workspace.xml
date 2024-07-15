@@ -4,19 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="22319aee-ae1e-4d24-807c-f369d98e0a72" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jan-2024-java-core-HW.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HW1/Book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HW1/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HW1/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HW1/Exercise2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HW1/Exercise3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+    <list default="true" id="22319aee-ae1e-4d24-807c-f369d98e0a72" name="Changes" comment="add HomeWork Lesson 1">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,9 +22,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 4
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
   <component name="ProjectId" id="2jE9fLSt5V5R321rmUjpFkYnn63" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -50,11 +39,14 @@
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/38063/IdeaProjects/jan-2024-java-core-HW",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
+    "settings.editor.splitter.proportion": "0.3070078",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -75,7 +67,8 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="jdk-17.0.10-azul-17.0.10-f644763e9732-59acb15f" />
+        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.18034.62" />
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-IU-241.18034.62" />
       </set>
     </attachedChunks>
   </component>
@@ -87,11 +80,28 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1720941472460</updated>
-      <workItem from="1720941473404" duration="16147000" />
+      <workItem from="1720941473404" duration="16412000" />
+      <workItem from="1720960692122" duration="881000" />
+      <workItem from="1721025827080" duration="870000" />
+      <workItem from="1721026999887" duration="132000" />
+      <workItem from="1721028525158" duration="742000" />
     </task>
+    <task id="LOCAL-00001" summary="add HomeWork Lesson 1">
+      <option name="closed" value="true" />
+      <created>1720960389333</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1720960389333</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add HomeWork Lesson 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="add HomeWork Lesson 1" />
   </component>
 </project>
